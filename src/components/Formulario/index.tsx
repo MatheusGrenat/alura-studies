@@ -32,6 +32,7 @@ class Formulario extends React.Component{
                         required
                     />
                 </div>
+                <Botao />
             </form>
         )
     }
